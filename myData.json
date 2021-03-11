@@ -1,0 +1,48 @@
+{
+ "Data": {
+     "Balance": [ 
+        {
+            "AccountId": "account-1",
+            "Amount": {
+                "Amount": "0.34",
+            "Currency": "GBP"
+            }
+        },
+        {
+            "AccountId": "account-1",
+            "Amount": {
+                "Amount": "20.34",
+            "Currency": "GBP"
+            }
+        },
+        {
+            "AccountId": "account-2",
+            "Amount": {
+                "Amount": "80.34",
+            "Currency": "GBP"
+            }
+        },
+        {
+            "AccountId": "account-3",
+            "Amount": {
+                "Amount": "5.34",
+            "Currency": "GBP"
+            }
+        },
+        {
+            "AccountId": "account-4",
+            "Amount": {
+                "Amount": "8.34",
+            "Currency": "GBP"
+            }
+        },
+        {
+            "AccountId": "account-5",
+            "Amount": {
+                "Amount": "64.40",
+            "Currency": "GBP"
+            }
+        }
+    ]
+ }   
+}
